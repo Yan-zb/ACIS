@@ -40,7 +40,7 @@ VesSAP, Code: https://github.com/vessap/vessap, dataset: http://DISCOtechnologie
 
 LOTS-IM, Code: https://github.com/febrianrachmadi/lots-iam-gpu, the article title is 'Limited One-time Sampling Irregularity Map (LOTS-IM) for Automatic Unsupervised Assessment of White Matter Hyperintensities and Multiple Sclerosis Lesions in Structural Brain Magnetic Resonance Images', DOI: https://doi.org/10.1016/j.compmedimag.2019.101685
 
-self-supervised vascular segmentation method, Code: https://github.com/AISIGSJTU/SSVS, the article title is 'Self-Supervised Vessel Segmentation via Adversarial Learning'
+self-supervised vascular segmentation method, Code: https://github.com/AISIGSJTU/SSVS, the article title is 'Self-Supervised Vessel Segmentation via Adversarial Learning', DOI: https://doi.org/10.1109/iccv48922.2021.00744
 
 GCS, Code: https://github.com/MontaEllis/SSL-For-Medical-Segmentation, the article title is 'Generative Consistency for Semi-Supervised Cerebrovascular Segmentation From TOF-MRA', DOI: https://doi.org/10.1109/TMI.2022.3184675
 
