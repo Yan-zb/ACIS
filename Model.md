@@ -29,14 +29,23 @@ DeepVess, Code: https://github.com/mhaft/DeepVess,  the article title is 'Deep c
 cascaded U-Net, Code:https://github.com/PierreRouge/Cascaded-U-Net-for-vessel-segmentation, TubeTK dataset:https://public.kitware.com/Wiki/TubeTK/Data, the article title is 'Cascaded multitask U-Net using topological loss for vessel segmentation and centerline extraction', DOI: https://doi.org/10.48550/arXiv.2307.11603
 
 Thresholding methods, Code: https://github.com/giaylenia/OCTA_segm_study, OCTA dataset: https://doi.org/10.7488/ds/2729, the article title is 'Automated Segmentation of Optical Coherence Tomography Angiography Images: Benchmark Data and Clinically Relevant Metrics', DOI: https://doi.org/10.1167/tvst.9.13.5
+
 Unetr, Code: https://github.com/Project-MONAI/MONAI, SVRTK Fetal MRI dataset: https://gin.g-node.org/SVRTK/fetal_mri_atlases, the article title is '3D black blood cardiovascular magnetic resonance atlases of congenital aortic arch anomalies and the normal fetal heart: application to automated multi-label segmentation.', DOI: https://doi.org/10.1186/s12968-022-00902-z
+
 HP-VSP, Code: https://github.com/visionlyx/HP-VSP, dataset: http://atlas.brainsmatics.org/a/li2301, the article title is 'A high-performance deep-learning-based pipeline for whole-brain vasculature segmentation at the capillary resolution', DOI: https://doi.org/10.1093/bioinformatics/btad145
+
 BRAVE-NET, Code: https://github.com/prediction2020/brain-vessel-segmentation, the article title is 'BRAVE-NET: Fully Automated Arterial Brain Vessel Segmentation in Patients With Cerebrovascular Disease', DOI: https://doi.org/10.3389/frai.2020.552258
+
 VesSAP, Code: https://github.com/vessap/vessap, dataset: http://DISCOtechnologies.org/VesSAP, the article title is 'Machine learning analysis of whole mouse brain vasculature', DOI: https://doi.org/10.1038/s41592-020-0792-1
+
 LOTS-IM, Code: https://github.com/febrianrachmadi/lots-iam-gpu, the article title is 'Limited One-time Sampling Irregularity Map (LOTS-IM) for Automatic Unsupervised Assessment of White Matter Hyperintensities and Multiple Sclerosis Lesions in Structural Brain Magnetic Resonance Images', DOI: https://doi.org/10.1016/j.compmedimag.2019.101685
+
 self-supervised vascular segmentation method, Code: https://github.com/AISIGSJTU/SSVS, the article title is 'Self-Supervised Vessel Segmentation via Adversarial Learning'
+
 GCS, Code: https://github.com/MontaEllis/SSL-For-Medical-Segmentation, the article title is 'Generative Consistency for Semi-Supervised Cerebrovascular Segmentation From TOF-MRA', DOI: https://doi.org/10.1109/TMI.2022.3184675
+
 CMM-Net, Code: https://github.com/Yonsei-MILab/Biomedical-Image-Segmentation-via-CMM-Net, the article title is 'CMM-Net: Contextual multi-scale multi-level network for efficient biomedical image segmentation', DOI: https://doi.org/10.1038/s41598-021-89686-3
+
 usception, MIDAS-CoW dataset: http://hdl.handle.net/1926/594, the article title is 'A nested parallel multiscale convolution for cerebrovascular segmentation', DOI: https://doi.org/10.1002/mp.15280
 
 
