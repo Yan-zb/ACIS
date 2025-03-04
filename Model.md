@@ -40,9 +40,13 @@ VesSAP, Code: https://github.com/vessap/vessap, dataset: http://DISCOtechnologie
 
 LOTS-IM, Code: https://github.com/febrianrachmadi/lots-iam-gpu, the article title is 'Limited One-time Sampling Irregularity Map (LOTS-IM) for Automatic Unsupervised Assessment of White Matter Hyperintensities and Multiple Sclerosis Lesions in Structural Brain Magnetic Resonance Images', DOI: https://doi.org/10.1016/j.compmedimag.2019.101685
 
+MA-UNet, Code: https://github.com/HZ-LL/MA-UNet, the article title is 'Enhancing medical image segmentation with MA-UNet: a multi-scale attention framework', DOI: https://doi.org/10.1007/s00371-024-03774-9
+
 self-supervised vascular segmentation method, Code: https://github.com/AISIGSJTU/SSVS, the article title is 'Self-Supervised Vessel Segmentation via Adversarial Learning', DOI: https://doi.org/10.1109/iccv48922.2021.00744
 
 GCS, Code: https://github.com/MontaEllis/SSL-For-Medical-Segmentation, the article title is 'Generative Consistency for Semi-Supervised Cerebrovascular Segmentation From TOF-MRA', DOI: https://doi.org/10.1109/TMI.2022.3184675
+
+IB-nnU-Net, Code: https://github.com/knowleton/IPL-Net, the article title is 'Optimizing semi-supervised medical image segmentation with imbalanced filtering and nnU-Net enhancement', DOI: https://doi.org/10.1007/s00371-024-03759-8
 
 CMM-Net, Code: https://github.com/Yonsei-MILab/Biomedical-Image-Segmentation-via-CMM-Net, the article title is 'CMM-Net: Contextual multi-scale multi-level network for efficient biomedical image segmentation', DOI: https://doi.org/10.1038/s41598-021-89686-3
 
